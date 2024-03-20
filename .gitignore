@@ -9,3 +9,10 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+**/wip
+**/secret
+**/templates
+**/template
+**/Obsidian
+**/Templaty pro tvorbu
