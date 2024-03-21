@@ -9,6 +9,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+publish.bat
 
 **/wip
 **/secret
