@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Alamon Wiki
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Před vámi se nachází sbírka veškerých sepsaných informací o Alamonu.

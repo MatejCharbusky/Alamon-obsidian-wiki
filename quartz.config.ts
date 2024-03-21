@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Alamon Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -25,7 +25,10 @@ const config: QuartzConfig = {
         "**/templates",
         "**/template",
         "**/Obsidian",
-        "**/Templaty pro tvorbu"
+        "**/Templaty pro tvorbu",
+        "*_wip.md",
+        "*_np.md", //no publish
+        "*_secret.md",
     ],
     defaultDateType: "created",
     theme: {
