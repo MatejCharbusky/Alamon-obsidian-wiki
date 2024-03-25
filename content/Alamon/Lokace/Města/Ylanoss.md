@@ -41,7 +41,7 @@ Někdy během tohoto období byl Reimund zvolen starostou města. Netrvalo dlouh
 ## Obranné prostředky
 
 
-
+---
 ## Průmysl a obchod
 
 
