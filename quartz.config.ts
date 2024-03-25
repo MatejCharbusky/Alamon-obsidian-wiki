@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "cs-CZ",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: [
         "private",
@@ -23,7 +23,6 @@ const config: QuartzConfig = {
         "**/wip",
         "**/secret",
         "**/templates",
-        "**/template",
         "**/Obsidian",
         "**/Templaty pro tvorbu",
         "*_wip.md",
