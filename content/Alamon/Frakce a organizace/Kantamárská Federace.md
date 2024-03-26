@@ -1,5 +1,5 @@
 ## Popis
-Kantamárská federace je vládní celek, nacházející-se na území [[Kantamár|Kantamáru]].
+Kantamárská federace je vládní celek, nacházející-se na území [[Kantamár_wip|Kantamáru]].
 
 ---
 
