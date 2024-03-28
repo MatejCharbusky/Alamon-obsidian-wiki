@@ -1,0 +1,1 @@
+Bohové, kteří objevili Alamon na počátku Nového věku. Přesný počet bohů v tomto panteonu není známý.

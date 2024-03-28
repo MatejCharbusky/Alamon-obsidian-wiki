@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"66e88c3b8d60b699","x":-45,"y":620,"width":250,"height":60,"type":"text","text":"Střet mezi vyznavači a falešnými bohy"},
+		{"id":"2247198f1c916484","x":-45,"y":540,"width":250,"height":60,"type":"text","text":"Počátky konfliktu mezi skupinami vyznavačů"},
+		{"id":"6095fb03e4fa35a5","x":-45,"y":700,"width":250,"height":60,"type":"text","text":"Porážka falešných bohů"},
+		{"id":"d8a63c775303791c","x":-45,"y":460,"width":250,"height":60,"type":"text","text":"Získání dostatku následovníků"},
+		{"id":"c2c3fe4eb1e28ff6","x":-45,"y":380,"width":250,"height":60,"type":"text","text":"Příchod nových bohů"},
+		{"id":"58b0361dde461121","x":-45,"y":300,"width":250,"height":60,"type":"text","text":"Začátek nového věku"},
+		{"id":"bd5c337f48ec882f","x":-45,"y":780,"width":250,"height":60,"type":"text","text":"Občanská válka v Eomeronu"},
+		{"id":"ed5c7501032ab667","x":-45,"y":860,"width":250,"height":60,"type":"text","text":"Vyhnání heretiků z Eomeronu"}
+	],
+	"edges":[
+		{"id":"4de59ee37106e93b","fromNode":"58b0361dde461121","fromSide":"bottom","toNode":"c2c3fe4eb1e28ff6","toSide":"top"},
+		{"id":"39516d35d9cd70d5","fromNode":"c2c3fe4eb1e28ff6","fromSide":"bottom","toNode":"d8a63c775303791c","toSide":"top"},
+		{"id":"f918e749f874416a","fromNode":"d8a63c775303791c","fromSide":"bottom","toNode":"2247198f1c916484","toSide":"top"},
+		{"id":"69b74df013d194cc","fromNode":"2247198f1c916484","fromSide":"bottom","toNode":"66e88c3b8d60b699","toSide":"top"},
+		{"id":"a99a07a29fa1afb5","fromNode":"66e88c3b8d60b699","fromSide":"bottom","toNode":"6095fb03e4fa35a5","toSide":"top"},
+		{"id":"ddeff8acaf8864f9","fromNode":"6095fb03e4fa35a5","fromSide":"bottom","toNode":"bd5c337f48ec882f","toSide":"top"},
+		{"id":"137bc9ad0bbcfa2b","fromNode":"bd5c337f48ec882f","fromSide":"bottom","toNode":"ed5c7501032ab667","toSide":"top"}
+	]
+}
