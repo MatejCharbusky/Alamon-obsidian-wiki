@@ -26,5 +26,6 @@ Z klanu může být také vykázán pokud:
 - zneuctí svůj klan
 - krade jiným členům klanu
 - zavraždí jiného člena klanu
+
 Jednotlivci, kteří opustili klan dobrovolně jsou málokdy vítáni zpět.
 
