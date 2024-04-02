@@ -63,8 +63,8 @@ export default {
       lastFewNotes: ({ count }) => `Posledních ${count} poznámek`,
     },
     error: {
-      title: "Nenalezeno",
-      notFound: "Tato stránka je buď soukromá, nebo neexistuje.",
+      title: "Spoilery!",
+      notFound: "Na tohle si budete muset ještě počkat. Ale pracuji na tom a určitě to bude cool!",
     },
     folderContent: {
       folder: "Složka",
