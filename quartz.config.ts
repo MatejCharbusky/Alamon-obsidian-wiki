@@ -28,7 +28,8 @@ const config: QuartzConfig = {
         "*_wip.md",
         "*_np.md", //no publish
         "*_secret.md",
-        "/Images"
+        "/Images",
+        "/Alamon - Kampaň 1 - Eomeron"
     ],
     defaultDateType: "created",
     theme: {
