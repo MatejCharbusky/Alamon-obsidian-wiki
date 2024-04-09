@@ -1,1 +1,0 @@
-Druidská bohyně pocházející ze Zapomenutého věku .

@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"66e88c3b8d60b699","type":"text","text":"Střet mezi vyznavači a falešnými bohy","x":-45,"y":620,"width":250,"height":60},
+		{"id":"66e88c3b8d60b699","type":"text","text":"Střet mezi vyznavači a starými bohy","x":-45,"y":620,"width":250,"height":60},
 		{"id":"2247198f1c916484","type":"text","text":"Počátky konfliktu mezi skupinami vyznavačů","x":-45,"y":540,"width":250,"height":60},
-		{"id":"6095fb03e4fa35a5","type":"text","text":"Porážka falešných bohů","x":-45,"y":700,"width":250,"height":60},
+		{"id":"6095fb03e4fa35a5","type":"text","text":"Porážka Starých bohů","x":-45,"y":700,"width":250,"height":60},
 		{"id":"d8a63c775303791c","type":"text","text":"Získání dostatku následovníků","x":-45,"y":460,"width":250,"height":60},
 		{"id":"c2c3fe4eb1e28ff6","type":"text","text":"Příchod nových bohů","x":-45,"y":380,"width":250,"height":60},
 		{"id":"58b0361dde461121","type":"text","text":"Začátek nového věku","x":-45,"y":300,"width":250,"height":60},
 		{"id":"bd5c337f48ec882f","type":"text","text":"Občanská válka v Eomeronu","x":-45,"y":780,"width":250,"height":60},
 		{"id":"ed5c7501032ab667","type":"text","text":"Vyhnání heretiků z Eomeronu","x":-45,"y":860,"width":250,"height":60},
-		{"id":"21126c9076f865b3","x":280,"y":300,"width":400,"height":400,"type":"file","file":"Alamon/Lore/Náboženství v Eomeronu.md"}
+		{"id":"21126c9076f865b3","type":"file","file":"Alamon/Lore/Náboženství v Eomeronu.md","x":280,"y":300,"width":400,"height":620}
 	],
 	"edges":[
 		{"id":"4de59ee37106e93b","fromNode":"58b0361dde461121","fromSide":"bottom","toNode":"c2c3fe4eb1e28ff6","toSide":"top"},

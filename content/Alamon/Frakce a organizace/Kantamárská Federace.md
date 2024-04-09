@@ -36,6 +36,10 @@ Federace se dělí na 5 provincií. V čele každé z nich stojí zvolený zastu
 
 #### Květinová pole
 
+#### Smaragdové Ostrovy
+Vulkanické souostroví východně od Eomeronu. Souostroví se zkládá z několika desítek ostrovů. Největším z nich je Korálová Zátoka.
+Jejich hlavním exportem jsou zemědělské produkty - zelenina, cukrová třtina, tabák. Pirátství je zde velkým problémem. 
+
 
 ---
 ## Kultura
