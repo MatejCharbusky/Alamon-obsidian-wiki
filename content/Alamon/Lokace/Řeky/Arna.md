@@ -1,9 +1,7 @@
 ---
 tags:
   - řeka
-  - Eomeron
-  - Kantamár
-  - Železné_údolí
+  - Eomeron/Kantamár/Železné_údolí
 aliases:
   - Rudá řeka
 secret: 

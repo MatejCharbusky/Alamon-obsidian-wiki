@@ -29,16 +29,19 @@ Obyvatelstvo, vedeno bývalými rádci trůnu, se vzbouří a sesadí prince z t
 ## Provincie
 Federace se dělí na 5 provincií. V čele každé z nich stojí zvolený zastupitel. Původními zastupiteli byli rádci vladařů a baroni, kterým území provincií patřilo.
 #### Příhraničí
+Největší kantamárská provincie, sousedící s [[Talan Daeris]]. Nachází se zde hlavní město federace - [[Ylanoss_wip|Ylanoss]]
 
 #### Slnkový kraj
 
+Více informací je [[Eomeron#Geografie|zde]].
 #### Železné údolí
 
 #### Květinová pole
 
 #### Smaragdové Ostrovy
-Vulkanické souostroví východně od Eomeronu. Souostroví se zkládá z několika desítek ostrovů. Největším z nich je Korálová Zátoka.
-Jejich hlavním exportem jsou zemědělské produkty - zelenina, cukrová třtina, tabák. Pirátství je zde velkým problémem. 
+Vulkanické souostroví v Oleánském moři, východně od Eomeronu. Souostroví se skládá z několika desítek ostrovů. Největším z nich je Korálová Zátoka.
+Jejich hlavním exportem jsou, díky velmi vysoké úrodnosti místní sopečné půdy, zemědělské produkty - zelenina, cukrová třtina, tabák. Pirátství je zde velkým problémem. 
+Smaragdové ostrovy se staly územím tehdejšího Kantamárského království v roce 138 NV, kdy král Darian vyslal průzkumnou loď do Oleánského moře jako součást průzkumné mise, jejíž účelem bylo zmapovat Eomeron a jeho okolí. Tyto téměř neobydlené ostrovy byly kolonizovány krátce po jejich objevení.
 
 
 ---

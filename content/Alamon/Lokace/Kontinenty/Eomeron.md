@@ -16,19 +16,22 @@ aliases:
 tags:
   - Eomeron
   - Kontinent
-  - pevnina
 type: Kontinent
 etymology: Jméno pochází ze sylvánštiny. Znamená "Zelená země"
 ---
+![[eomeron lofi.jpg|600]]
+
 Víly ho nazývají Mistarun - Země lesa
 
 Eomeron je největším kontinentem Alamonu.
 
 ## Geografie
-Krajina Eomeronského kontinentu je velmi rozmanitá.
+Krajina Eomeronského kontinentu je díky jeho rozloze velmi rozmanitá.
 I jednotlivé oblasti Eomeronu se od sebe velmi liší.  
 
-[[Kantamárská Federace#Slnkový kraj|Slnkový kraj]], na území [[Kantamár_wip|Kantamáru]] se skládá převážně z rovin a pustin. Nízké množství srážek způsobilo vznik velmi suché půdy, s jen malým množstvím rostlinných druhů. Toto území obsahuje velké množství cenných nerostů, které se zde těží a rozváží se odsud napříč kontinentem. Na pobřeží na jihu Slnkového kraje se nachází několik měst a osad, které využívají místní jezera k zásobování pouštních osad vodou.
+Například [[Kantamárská Federace#Slnkový kraj|Slnkový kraj]], na území [[Kantamár_wip|Kantamáru]] se skládá převážně z rovin a pustin. Nízké množství srážek způsobilo vznik velmi suché půdy, s jen malým množstvím rostlinných druhů. Toto území obsahuje velké množství cenných nerostů, které se zde těží a rozváží se odsud napříč kontinentem. Na pobřeží na jihu Slnkového kraje se nachází několik měst a osad, které využívají místní jezera k zásobování pouštních osad vodou.
+
+[[Kantamárská Federace#Příhraničí|Příhraničí]] a [[Kantamárská Federace#Květinová pole|Květinová pole]], stejně jako jih [[Talan Daeris]] jsou zase naopak velmi úrodná území. Objevuje se zde velké množství rostlinných a živočišných druhů, které zde prosperují.
 
 ---
 ## Ekosystém
