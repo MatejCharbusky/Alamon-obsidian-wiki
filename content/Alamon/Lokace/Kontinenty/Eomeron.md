@@ -16,6 +16,7 @@ aliases:
 tags:
   - Eomeron
   - Kontinent
+  - pevnina
 type: Kontinent
 etymology: Jméno pochází ze sylvánštiny. Znamená "Zelená země"
 ---
