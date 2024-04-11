@@ -19,5 +19,5 @@ margin: 5px;
 padding: 10px;
 border-radius: 3px;
 ">
-Někteří obyvatelé Eomeronu se rozhodli zachovat si svou víru. Jejich oddanost nyní padlým bohům byla kritizována tehdejší společností a mnoho se jich po několika letech rozhodlo odejít z bezpečí Kantamárského království a Talan Daeris a šli na sever do <a href="[[Spálený kraj_wip]]">Spáleného kraje</a>. Zoufalství způsobené místními životní podmínkami je přimělo obrátit své náboženské zaměření k novým bohům.
+Někteří obyvatelé Eomeronu se rozhodli zachovat si svou víru. Jejich oddanost nyní padlým bohům byla kritizována tehdejší společností a mnoho se jich po několika letech rozhodlo odejít z bezpečí Kantamárského království a Talan Daeris a šli na sever do [[Spálený kraj_wip|Spáleného kraje]]. Zoufalství způsobené místními životní podmínkami je přimělo obrátit své náboženské zaměření k novým bohům.
 </div>
