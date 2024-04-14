@@ -30,6 +30,8 @@ const config: QuartzConfig = {
         "*_secret.md",
         "/Images",
         "/Kampaně",
+        "/Nástroje",
+        "/.trash"
     ],
     defaultDateType: "created",
     theme: {

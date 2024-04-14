@@ -5,6 +5,7 @@ public
 prof
 tsconfig.tsbuildinfo
 .obsidian
+.trash
 .quartz-cache
 private/
 .replit
@@ -18,6 +19,7 @@ publish.bat
 **/Obsidian
 **/Templaty pro tvorbu
 Kampaně/
+Nástroje/
 
 *_wip.md
 *_np.md
