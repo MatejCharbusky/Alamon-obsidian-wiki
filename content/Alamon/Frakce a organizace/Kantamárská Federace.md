@@ -29,7 +29,7 @@ Obyvatelstvo, vedeno bývalými rádci trůnu, se vzbouří a sesadí prince z t
 ## Provincie
 Federace se dělí na 5 provincií. V čele každé z nich stojí zvolený zastupitel. Původními zastupiteli byli rádci vladařů a baroni, kterým území provincií patřilo.
 #### Příhraničí
-Největší kantamárská provincie, sousedící s [[Talan Daeris_wip]]. Nachází se zde hlavní město federace - [[Ylanoss_wip|Ylanoss]]
+Největší kantamárská provincie, sousedící s [[Talan Daeris_wip|Talan Daeris]]. Nachází se zde hlavní město federace - [[Ylanoss_wip|Ylanoss]]
 
 #### Slnkový kraj
 

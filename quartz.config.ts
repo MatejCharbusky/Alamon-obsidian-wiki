@@ -31,7 +31,7 @@ const config: QuartzConfig = {
         "/Images",
         "/Kampaně",
         "/Nástroje",
-        "/.trash"
+        "/.trash",
     ],
     defaultDateType: "created",
     theme: {
