@@ -25,11 +25,6 @@ etymology: Jméno pochází ze sylvánštiny. Znamená "Zelená země"
 Eomeron je největším kontinentem Alamonu.
 Víly ho nazývají Mistarun - Země lesa
 
-```dataviewjs
-
-dv.header(2, dv.current())
-
-```
 
 ---
 ## Geografie
