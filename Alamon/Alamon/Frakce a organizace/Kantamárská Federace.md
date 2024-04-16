@@ -39,9 +39,9 @@ Více informací je [[Eomeron#Geografie|zde]].
 #### Květinová pole
 
 #### Smaragdové Ostrovy
-Vulkanické souostroví v Oleánském moři, východně od Eomeronu. Souostroví se skládá z několika desítek ostrovů. Největším z nich je Korálová Zátoka.
-Jejich hlavním exportem jsou, díky velmi vysoké úrodnosti místní sopečné půdy, zemědělské produkty - zelenina, cukrová třtina, tabák. Pirátství je zde velkým problémem. 
-Smaragdové ostrovy se staly územím tehdejšího Kantamárského království v roce 138 NV, kdy král Darian vyslal průzkumnou loď do Oleánského moře jako součást průzkumné mise, jejíž účelem bylo zmapovat Eomeron a jeho okolí. Tyto téměř neobydlené ostrovy byly kolonizovány krátce po jejich objevení.
+Vulkanické souostroví v Oleánském moři, východně od Eomeronu. Souostroví se skládá z několika desítek ostrovů. Největším z nich je [[Korálová Zátoka]].
+Jejich hlavním exportem jsou, díky velmi vysoké úrodnosti místní sopečné půdy, zemědělské produkty, jako například zelenina, cukrová třtina, tabák. Pirátství je zde velkým problémem. 
+Smaragdové ostrovy se staly územím tehdejšího Kantamárského království v roce 138 NV, kdy král Darian vyslal loď do Oleánského moře jako součást průzkumné mise, jejíž cílem bylo zmapovat Eomeron a jeho okolí. Tyto téměř neobydlené ostrovy byly kolonizovány krátce po jejich objevení.
 
 
 ---
