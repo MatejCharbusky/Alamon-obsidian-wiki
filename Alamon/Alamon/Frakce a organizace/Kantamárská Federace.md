@@ -36,7 +36,6 @@ Největší kantamárská provincie, sousedící s [[Talan Daeris_wip|Talan Daer
 
 #### Slnkový kraj
 ![[Eomeron#^slnkovy-kraj]]
-*(viz. [[Eomeron|Emeron]])*
 #### Železné údolí
 
 #### Květinová pole
@@ -56,7 +55,7 @@ Smaragdové ostrovy se staly územím tehdejšího Kantamárského království 
 
 
 ---
-## Zdroje
+## Suroviny
 
 
 

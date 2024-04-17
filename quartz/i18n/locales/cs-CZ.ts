@@ -44,7 +44,7 @@ export default {
     },
     transcludes: {
       transcludeOf: ({ targetSlug }) => `Transclude of ${targetSlug}`,
-      linkToOriginal: "Odkaz na původní",
+      linkToOriginal: "(Odkaz na původ citátu)",
     },
     search: {
       title: "Hledat",
