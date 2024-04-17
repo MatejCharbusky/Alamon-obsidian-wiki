@@ -31,7 +31,8 @@ Víly ho nazývají Mistarun - Země lesa
 Krajina Eomeronského kontinentu je díky jeho rozloze velmi rozmanitá.
 I jednotlivé oblasti Eomeronu se od sebe velmi liší.  
 
-Například [[Kantamárská Federace#Slnkový kraj|Slnkový kraj]], na území [[Kantamár_wip|Kantamáru]] se skládá převážně z rovin a pustin. Nízké množství srážek způsobilo vznik velmi suché půdy, s jen malým množstvím rostlinných druhů. Toto území obsahuje velké množství cenných nerostů, které se zde těží a rozváží se odsud napříč kontinentem. Na pobřeží na jihu Slnkového kraje se nachází několik měst a osad, které využívají místní jezera k zásobování pouštních osad vodou.
+[[Kantamárská Federace#Slnkový kraj|Slnkový kraj]], na území [[Kantamár_wip|Kantamáru]] se skládá převážně z rovin a pustin. Nízké množství srážek způsobilo vznik velmi suché půdy, s jen malým množstvím rostlinných druhů. Toto území obsahuje velké množství cenných nerostů, které se zde těží a rozváží se odsud napříč kontinentem. Na pobřeží na jihu Slnkového kraje se nachází několik měst a osad, které využívají místní jezera k zásobování pouštních osad vodou.
+^slnkovy-kraj
 
 [[Kantamárská Federace#Příhraničí|Příhraničí]] a [[Kantamárská Federace#Květinová pole|Květinová pole]], stejně jako jih [[Talan Daeris_wip|Talan Daeris]] jsou zase naopak velmi úrodná území. Objevuje se zde velké množství rostlinných a živočišných druhů, které zde prosperují.
 

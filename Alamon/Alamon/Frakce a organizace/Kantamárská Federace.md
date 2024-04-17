@@ -1,5 +1,8 @@
 ---
-tags: 
+tags:
+  - Eomeron
+  - "#Kantamár"
+  - organizace
 aliases: 
 secret: 
 motto: 
@@ -11,7 +14,7 @@ leader_title:
 family_leader: 
 founders: 
 parent_organization: 
-geographic_location: 
+geographic_location: "[[Kantamár_wip]]"
 predecessor_organizations: 
 successor_organizations:
 ---
@@ -32,8 +35,8 @@ Federace se dělí na 5 provincií. V čele každé z nich stojí zvolený zastu
 Největší kantamárská provincie, sousedící s [[Talan Daeris_wip|Talan Daeris]]. Nachází se zde hlavní město federace - [[Ylanoss_wip|Ylanoss]]
 
 #### Slnkový kraj
-
-Více informací je [[Eomeron#Geografie|zde]].
+![[Eomeron#^slnkovy-kraj]]
+*(viz. [[Eomeron|Emeron]])*
 #### Železné údolí
 
 #### Květinová pole
