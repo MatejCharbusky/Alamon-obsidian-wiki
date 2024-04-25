@@ -12,4 +12,4 @@ Pro některé z vás to bude nástroj pro doplňování vlastních poznámek a j
 
 Pokud si nevíte rady s tím, kde začít, proč se třeba nemrknout na [[Eomeron|kontinent, kde bude náš příběh začínat]]?
 
-> [!info] Informace budu časem postupně doplňovat. Kromě úpravy formátování a případných oprav větné skladby, či gramatických chyb, se už žádné informace nebudou měnit. Vše, co na této wiki najdete, je finální.
+> [!info] Informace budu časem postupně doplňovat. Kromě úpravy formátování a případných oprav větné skladby, či gramatických chyb, se už žádné informace nebudou měnit. Vše, co na této wiki najdete, je finální. Pokud by na nějaké změny došlo, bude se nejspíš jednat o opravy kontinuity, které vám vždy oznámím přes Discord.
