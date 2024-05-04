@@ -3,26 +3,24 @@ tags:
   - Eomeron
   - "#Kantamár"
   - organizace
-aliases: 
+aliases:
+  - Federace
 secret: 
 motto: 
 founding_date: 
-dissolution_date: 
 leader: 
 ruling_organization: 
 leader_title: 
-family_leader: 
 founders: 
 parent_organization: 
 geographic_location: "[[Kantamár_wip]]"
-predecessor_organizations: 
-successor_organizations:
+predecessor_organizations: "[[Kantamárské království]]"
 ---
 Kantamárská federace je vládní celek, nacházející-se na území [[Kantamár_wip|Kantamáru]].
 
 ---
 ## Historie
-Vznikla se zánikem tehdejší monarchie.
+Vznikla se zánikem tehdejší monarchie. 
 
 Princ se stal králem potom, co jeho rodiče zemřeli ve válce s arkaniky. Jejich rádci byli proti jejich rozhodnutí se války účastnit osobně. Podle prince ale neodporovali dostatečně. Princ je částečně viní za smrt jeho rodičů a propouští je ze služeb monarchie.
 Princ během války učiní chybné taktické rozhodnutí, které ho stojí spousty životů jeho obyvatel.

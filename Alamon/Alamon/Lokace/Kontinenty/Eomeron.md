@@ -1,8 +1,5 @@
 ---
 parent_location: 
-ruler: 
-additional_rulers: 
-owning_rank: 
 owning_organizations:
   - "[[Kantamárská Federace]]"
   - "[[Talan Daeris_wip]]"
