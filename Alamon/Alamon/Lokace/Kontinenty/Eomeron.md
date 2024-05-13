@@ -55,7 +55,3 @@ I jednotlivé oblasti Eomeronu se od sebe velmi liší.
 
 ---
 ## Historie
-
-
----
-## Turismus

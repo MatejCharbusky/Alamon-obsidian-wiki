@@ -3,16 +3,14 @@ tags:
   - Eomeron
   - "#Kantamár"
   - organizace
+  - WIP
 aliases:
   - Federace
 secret: 
 motto: 
 founding_date: 
-leader: 
-ruling_organization: 
-leader_title: 
-founders: 
-parent_organization: 
+leader: "[[Kantamárské Kolegium]]"
+founders: "[[Kantamárské Kolegium]]"
 geographic_location: "[[Kantamár_wip]]"
 predecessor_organizations: "[[Kantamárské království]]"
 ---
@@ -20,11 +18,8 @@ Kantamárská federace je vládní celek, nacházející-se na území [[Kantam�
 
 ---
 ## Historie
-Vznikla se zánikem tehdejší monarchie. 
-
-Princ se stal králem potom, co jeho rodiče zemřeli ve válce s arkaniky. Jejich rádci byli proti jejich rozhodnutí se války účastnit osobně. Podle prince ale neodporovali dostatečně. Princ je částečně viní za smrt jeho rodičů a propouští je ze služeb monarchie.
-Princ během války učiní chybné taktické rozhodnutí, které ho stojí spousty životů jeho obyvatel.
-Obyvatelstvo, vedeno bývalými rádci trůnu, se vzbouří a sesadí prince z trůnu. Tím se z monarchie stala federace (oligarchie).
+### Vznik
+Dříve než se toto území stalo federací, zde myla monarchie, založena [[Král Reimund_wip|králem Reimundem]] na počátku Nového věku. Tato monarchie se rozpadla během [[Válka s Arkaniky_wip|války s Arkaniky]], kdy zemřel tehdejší král, bez nástupce, který by se mohl trůnu ujmout. Králův syn byl v době královy smrti příliš mladý. Vedení národa bylo předáno královým rádcům, kteří společně založili [[Kantamárské Kolegium]], které dodnes stojí v čele federace.
 
 ---
 ## Provincie
@@ -46,14 +41,30 @@ Smaragdové ostrovy se staly územím tehdejšího Kantamárského království 
 
 ---
 ## Kultura
+  %% Obyvatelé Kantamárské federace se od počátku nového věku věnují převážně rozvoji. Tento fakt se odráží ve všech aspektech jejich kultury - jejich architektura je jednoduchá, s ohledem na funkci, než vzhled; Jejich literatura obsahuje spíše popisy a výklady, než vyprávění, nebo poezii; Jejich hudba je hrána na komplikovanější nástroje, jako například niněra, harpsikord, žesťové nástroje a nově i piána. %%  
+%% 
+- rozvoj
+- architektura
+- umění
+- vzdělávání
+- náboženství %%
+#### Rozvoj
+Rozvoji se obyvatelé Kantamárské federace věnují už od počátku Nového věku. Právě díky tomu jsou technologicky nejvyspělejším národem Alamonu. Díky tomuto zaměření ale zanedbali některé jiné kulturní aspekty.
+Pára je zdrojem jejich nové technologie. Díky páře se se Kantamárcům podařilo rozšířit si hranice možností. Vynález parního stroje vedl k automatizaci mnoha činností, což dále vedlo k zvýšení produkce v mnoha průmyslech. 
+#### Architektura
+Většina architektury tohoto území je poměrně jednoduchá. Starší budovy byly stavěny z kamene, s dřevěnými, nebo doškovými střechami a budily velmi rustikální dojem. 
+V poslední polovině století se domy začaly stavět spíše z cihel, se střechami buď z břidlicových tašek, či kovů jako je měď, nebo mosaz, které časem oxidují a dostávají tak tyrkysové zbarvení. Stavby tohoto vzhledu jsou velmi typické zvláště ve větších městech tohoto území. 
+Modernější budovy
 
-
+#### Náboženství
+Náboženství je, vzhledem k jeho [[Náboženství v Eomeronu#Historie náboženství|historii]], v některých částech Kantamáru citlivé téma. Nejsou žádné zákony, které by vyznávání [[Noví bohové_wip|nových bohů]] zakazovaly, přesto se tato náboženství v Kantamáru téměř nevyskytují. Po pádu starých bohů se lidé tohoto území přestali o božstva zajímat a jejich zaměření se přesunulo na agrární a později technologický rozvoj
+%% 
 ---
 ## Veřejná agenda
 
 
 ---
-## Suroviny
+## Suroviny %%
 
 
 
