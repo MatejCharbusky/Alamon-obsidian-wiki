@@ -30,8 +30,9 @@ Největší kantamárská provincie, sousedící s [[Talan Daeris_wip|Talan Daer
 #### Slnkový kraj
 ![[Eomeron#^slnkovy-kraj]]
 #### Železné údolí
-
+Pojmenované podle Železných hor - pohoří proslulé velkým obsahem železné rudy. Tato provincie je centrem inovací v oblasti průmyslu a technologie.
 #### Květinová pole
+
 
 #### Smaragdové Ostrovy
 Vulkanické souostroví v Oleánském moři, východně od Eomeronu. Souostroví se skládá z několika desítek ostrovů. Největším z nich je [[Korálová Zátoka]].
@@ -54,7 +55,6 @@ Pára je zdrojem jejich nové technologie. Díky páře se se Kantamárcům poda
 #### Architektura
 Většina architektury tohoto území je poměrně jednoduchá. Starší budovy byly stavěny z kamene, s dřevěnými, nebo doškovými střechami a budily velmi rustikální dojem. 
 V poslední polovině století se domy začaly stavět spíše z cihel, se střechami buď z břidlicových tašek, či kovů jako je měď, nebo mosaz, které časem oxidují a dostávají tak tyrkysové zbarvení. Stavby tohoto vzhledu jsou velmi typické zvláště ve větších městech tohoto území. 
-Modernější budovy
 
 #### Náboženství
 Náboženství je, vzhledem k jeho [[Náboženství v Eomeronu#Historie náboženství|historii]], v některých částech Kantamáru citlivé téma. Nejsou žádné zákony, které by vyznávání [[Noví bohové_wip|nových bohů]] zakazovaly, přesto se tato náboženství v Kantamáru téměř nevyskytují. Po pádu starých bohů se lidé tohoto území přestali o božstva zajímat a jejich zaměření se přesunulo na agrární a později technologický rozvoj
