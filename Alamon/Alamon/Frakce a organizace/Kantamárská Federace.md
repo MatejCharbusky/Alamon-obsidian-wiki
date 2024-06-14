@@ -59,9 +59,6 @@ V poslední polovině století se domy začaly stavět spíše z cihel, se stře
 #### Náboženství
 Náboženství je, vzhledem k jeho [[Náboženství v Eomeronu#Historie náboženství|historii]], v některých částech Kantamáru citlivé téma. Nejsou žádné zákony, které by vyznávání [[Noví bohové_wip|nových bohů]] zakazovaly, přesto se tato náboženství v Kantamáru téměř nevyskytují. Po pádu starých bohů se lidé tohoto území přestali o božstva zajímat a jejich zaměření se přesunulo na agrární a později technologický rozvoj
 
-#### Vzdělávání
-Testuju publish
-
 %% 
 ---
 ## Veřejná agenda
